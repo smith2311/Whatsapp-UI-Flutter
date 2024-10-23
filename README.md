@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-##Features
+# Features
 - Onboarding Screen: Welcome screen with app introduction.
 - Login Screen: Simple login interface with text fields for phone number authentication.
 - Chats UI: Dynamic chat list interface showing user conversations.
