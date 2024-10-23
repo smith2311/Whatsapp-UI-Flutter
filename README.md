@@ -8,9 +8,10 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Features
+- Onboarding Screen: Welcome screen with app introduction.
+- Login Screen: Simple login interface with text fields for phone number authentication.
+- Chats UI: Dynamic chat list interface showing user conversations.
+- Status UI: WhatsApp-style status section with circular progress indicators.
+- Call UI: Basic layout for voice and video call sections.
+- Navigation: Tab-based navigation for switching between chats, status, and calls.
